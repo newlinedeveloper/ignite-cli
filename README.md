@@ -4,13 +4,9 @@ Ignite cli commands
 
 ```
 ignite scaffold chain mychain
-
 ignite scaffold module blog
-
 ignite scaffold list post title body
-
 ignite scaffold message write-comment
-
 ignite chain serve
 
  ```
